@@ -1,0 +1,10 @@
+html,
+body {
+  font-family: 'system-ui';
+}
+
+#my-chart.column {
+  height: 200px;
+  max-width: 300px;
+  margin: 0 auto;
+}
